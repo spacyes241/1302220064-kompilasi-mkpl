@@ -9,6 +9,6 @@ public class Counter {
 	}
 		
 	public void reset() {
-		count = 0;
+		count = 1;
 	}
 }
